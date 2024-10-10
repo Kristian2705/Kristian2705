@@ -1,5 +1,5 @@
 # 💫 About Me:
-🥇 1st place at the National IT Olympiad 2024 in 'Big Data' category<br>🌿 Laureate at the National IT Olympiad 2024 in the individual ranking<br>⚙️ I am currently occupied with developing Web Applications<br>🏫 I am studying at Mathematics High School in Burgas, Bulgaria<br>💻 Softuni student since 2022<br>🌱 I am currently engaged in the acquisition and assimilation of proficiency in ASP.NET Core<br>🎮 I am fond of sports, doing puzzles, math and video games<br>⚡ 19 years old
+🥇 1st place at the National IT Olympiad 2024 in 'Big Data' category<br>🌿 Laureate at the National IT Olympiad 2024 in the individual ranking<br>⚙️ I am currently occupied with developing Web Applications<br>🏫 Graduated at Mathematics High School in Burgas, Bulgaria<br>🎓 Currently studying Software Engineering at FMI💻 Softuni student since 2022<br>🌱 I am currently engaged in the acquisition and assimilation of proficiency in ASP.NET Core<br>🎮 I am fond of sports, doing puzzles, math and video games<br>⚡ 19 years old
 
 
 ## 🌐 Socials:
